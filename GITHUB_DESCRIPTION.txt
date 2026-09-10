@@ -1,0 +1,4 @@
+🧮 Calculadora simples em Python + Tkinter, desenvolvida como prova de conceito de desenvolvimento ágil orientado por especificação com IA. Demonstra: design agnóstico (Pencil), testes incrementais, arquitetura em camadas, e como usar specs claras para construir exatamente o que foi pensado. 100% funcional e documentado.
+
+Stack: Python 3.10+ | Tkinter | pytest | pt-BR
+Status: ✅ Concluído | Versão 1.0.0
