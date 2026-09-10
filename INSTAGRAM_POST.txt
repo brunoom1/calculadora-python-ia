@@ -1,0 +1,55 @@
+🧮 PROJETO: Calculadora com IA + Especificação = Resultado PERFEITO
+
+Desenvolvemos uma calculadora simples em Python que prova algo incrível: quando você combina IA, especificações claras e metodologia ágil, o resultado fica EXATAMENTE como foi planejado.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ DESTAQUES DO PROJETO:
+
+✅ Design agnóstico (Pencil) — mesmo design serve Tkinter, PyQt, Web, Flutter
+✅ Testes em cada etapa (não só no final!)
+✅ Arquitetura em camadas — código limpo e modular
+✅ 100% de cobertura de testes na lógica
+✅ Task-driven — controle total de execução
+✅ 11 commits bem organizados
+✅ Documentação completa
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ STACK:
+• Python 3.10+ 
+• Tkinter (interface desktop)
+• pytest (testes)
+• Pencil Project (design)
+• Git (versionamento)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 METODOLOGIA APLICADA:
+
+1️⃣ Especificar → Implementar → Testar → Validar → Comitar
+2️⃣ Testes incrementais (não teste tudo no final!)
+3️⃣ Agile real (entregas funcionais a cada sprint)
+4️⃣ Design independente de tecnologia
+5️⃣ Documentação ativa
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎓 O que aprendemos:
+→ Specs claras = Implementação precisa
+→ Testes durante = Menos bugs
+→ Design agnóstico = Reutilização
+→ IA + estrutura = Resultados incríveis
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 ACESSE:
+GitHub: github.com/brunoom1/calculadora-python-ia
+📖 Leia toda documentação no repo!
+
+Desenvolvido por: Gabriel Mendonça
+Email: gabrielmendoncanf@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#Python #DesenvolvimentoDeySoftware #Agile #TDD #IA #GitHub #OpenSource #Calculadora #DevOps #BestPractices #Tkinter #Programação #Tech #Developer #SoftwareEngineering #Coding #WebDevelopment #TechCommunity #PortfolioProject #ComInteligênciaArtificial

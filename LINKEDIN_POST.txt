@@ -1,0 +1,100 @@
+🎯 PROJETO: Buscando Controle Absoluto no Desenvolvimento com IA
+
+Desenvolvemos uma calculadora simples, mas com um propósito bem específico: entender o quanto conseguimos chegar mais próximo do controle ABSOLUTO no desenvolvimento com inteligência artificial.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤔 POR QUÊ?
+
+Em projetos maiores é muito complicado avaliar esse controle e chegar a uma técnica mais apurada. Então resolvi fazer algo simples, mas aplicando TODOS os pontos de interesse que eu queria testar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ O QUE FOI IMPLEMENTADO:
+
+1️⃣ GERENCIAMENTO E ORGANIZAÇÃO DE ATIVIDADES
+   → Cada tarefa definida em arquivo único (source of truth)
+   → Status explícito: pendente → em progresso → concluído
+   → Rastreabilidade completa do ciclo
+
+2️⃣ ACOMPANHAMENTO DE TAREFAS
+   → Task-driven development
+   → Subtarefas ordenadas e dependências
+   → Validação contra critérios de aceitação
+   → 11 commits bem organizados (não tudo junto!)
+
+3️⃣ VISÃO DO DESENVOLVIMENTO POR PARTES
+   → Entregar valor incrementalmente
+   → Cada feature deixa a app funcional
+   → Testes em CADA etapa (não só no final)
+   → Entender a "bagunça" conforme ela vai sendo feita
+
+4️⃣ PADRONIZAÇÃO DE INTERFACE (Design First)
+   → Criamos design com Pencil ANTES de codificar
+   → Especificação agnóstica: mesma spec serve Tkinter, PyQt, Web, Mobile
+   → Não deixamos interpretações soltas
+   → Cores, dimensões, layout — tudo definido em código HEX e pixels
+
+5️⃣ USER STORIES DECOMPOSTAS EM TAREFAS
+   → Cada User Story quebrada em subtarefas
+   → Ordem de execução importa
+   → Critérios de aceitação detalhados
+   → Testes unitários + testes de integração
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 RESULTADO:
+
+✅ 100% de cobertura de testes (lógica)
+✅ Código estruturado em camadas (Calculator → LocaleManager → UI)
+✅ Arquitetura modular e reutilizável
+✅ Documentação completa e ativa
+✅ Git com histórico limpo
+✅ Resultado IDÊNTICO ao planejado
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ STACK:
+Python 3.10+ | Tkinter | pytest | Pencil Project | Git + SemVer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 O APRENDIZADO:
+
+Quando você combina IA com:
+→ Especificações claras
+→ Design definido antes do código
+→ Metodologia estruturada
+→ Testes incrementais
+→ Task-driven development
+
+O resultado é **CONTROLE ABSOLUTO** sobre o que é desenvolvido.
+
+IA não é anarquia. IA com estrutura é poder.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 ACESSE O PROJETO COMPLETO:
+https://github.com/brunoom1/calculadora-python-ia
+
+📖 Explore:
+• README abrangente
+• Documentação de design (DESIGN.md)
+• Tasks executadas (.github/tasks.md)
+• User stories com critérios de aceitação
+• 11 commits bem organizados
+• 100% teste de cobertura
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Para devs interessados em:
+✨ Agile real
+✨ TDD (Test-Driven Development)
+✨ Desenvolvimento com IA
+✨ Arquitetura limpa
+✨ Design agnóstico
+✨ Boas práticas
+
+Este projeto é um case study prático!
+
+#SoftwareDevelopment #AI #Agile #Python #TDD #GitHub #DesignThinking #Coding #Developer #BestPractices #TechLeadership #Innovation #PortfolioProject #OpenSource #DevCommunity
